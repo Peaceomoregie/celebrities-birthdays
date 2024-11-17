@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Verne Troyer",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Verne_Troyer_by_Gage_Skidmore.jpg",
+        "occupation": "Actor",
+        "birthday": "January 1",
+        "birth_year": 1969,
+        "birth_place": "Sturgis, Michigan, USA",
+        "age": 49,
+        "birth_sign": "Capricorn"
+    },
+    {
+        "name": "Morris Chestnut",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Morris_Chestnut_by_Gage_Skidmore.jpg",
+        "occupation": "Actor",
+        "birthday": "January 1",
+        "birth_year": 1969,
+        "birth_place": "Cerritos, California, USA",
+        "age": 54,
+        "birth_sign": "Capricorn"
+    },
+    {
+        "name": "Grandmaster Flash",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Grandmaster_Flash_2012.jpg",
+        "occupation": "DJ",
+        "birthday": "January 1",
+        "birth_year": 1958,
+        "birth_place": "Bridgetown, Barbados",
+        "age": 66,
+        "birth_sign": "Capricorn"
+    },
+    {
+        "name": "Cuba Gooding Jr.",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Cuba_Gooding%2C_Jr._%28cropped%29.jpg",
+        "occupation": "Actor",
+        "birthday": "January 2",
+        "birth_year": 1968,
+        "birth_place": "Bronx, New York, USA",
+        "age": 56,
+        "birth_sign": "Capricorn"
+    },
+    {
+        "name": "Dax Shepard",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Dax_Shepard_2012_Shankbone.JPG",
+        "occupation": "Actor",
+        "birthday": "January 2",
+        "birth_year": 1975,
+        "birth_place": "Highland Township, Michigan, USA",
+        "age": 49,
+        "birth_sign": "Capricorn"
+    },
+    {
+        "name": "Taye Diggs",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Taye_Diggs_2016.jpg",
+        "occupation": "Actor",
+        "birthday": "January 2",
+        "birth_year": 1971,
+        "birth_place": "Newark, New Jersey, USA",
+        "age": 53,
+        "birth_sign": "Capricorn"
+    },
+    {
+        "name": "Mel Gibson",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mel_Gibson_Cannes_2016.jpg",
+        "occupation": "Actor",
+        "birthday": "January 3",
+        "birth_year": 1956,
+        "birth_place": "Peekskill, New York, USA",
+        "age": 68,
+        "birth_sign": "Capricorn"
+    },
+    {
+        "name": "Danica McKellar",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Danica_McKellar_%28cropped%29.jpg",
+        "occupation": "Actress",
+        "birthday": "January 3",
+        "birth_year": 1975,
+        "birth_place": "La Jolla, California, USA",
+        "age": 49,
+        "birth_sign": "Capricorn"
+    },
+    {
+        "name": "Eli Manning",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Eli_Manning_November_2010.jpg",
+        "occupation": "Football Player",
+        "birthday": "January 3",
+        "birth_year": 1981,
+        "birth_place": "New Orleans, Louisiana, USA",
+        "age": 43,
+        "birth_sign": "Capricorn"
+    }
+]
