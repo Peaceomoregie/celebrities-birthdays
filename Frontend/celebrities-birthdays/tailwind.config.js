@@ -8,6 +8,11 @@ export default {
     extend: {
       colors: {
         'pastel-blue': '#b8c3ed',
+        'dark-blue': '#4058c4',
+      },
+      fontFamily:{
+        'eczar': ['Eczar', 'serif'],
+        'montserrat': ['Montserrat', 'sans-serif']
       },
     },
   },
